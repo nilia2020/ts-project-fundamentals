@@ -1,2 +1,2 @@
-const myName = 'Jorge';
+const myName: string = 'Jorge';
 console.log(myName);
